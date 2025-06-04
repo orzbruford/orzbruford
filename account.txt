@@ -1,1 +1,15 @@
-このアカウントは mitsugu oyama (a.k.a. OrzBruford, miyamafukashi) が運営しています。
+この SNS アカウントは、私 (mitsugu oyama (a.k.a. OrzBruford) <mitsugu.oyama@gmail.com>) によって所有、運営されています。
+
+対象となる SNS アカウント
+  X:
+    @OrzBruford
+    @miyamafuka84114
+  Nostr:
+    orzbruford@mitsugu.github.io
+    npub1czyqt7dafpysfye9w3agpp4rcrsxnt0tr8v0t8kyu66327maxstq5ckh7u
+
+私のPGP公開鍵のフィンガープリント: 18AC 1C5E 8C77 C960 657F  5E4C A916 9D3E 3ECC A78E
+公開鍵等のホスティング URL: https://orzbruford.github.io/orzbruford/#pgp_public_key
+
+このメッセージは、上記のPGP公開鍵で署名されています。
+日時: 2025年6月5日 (JST)
